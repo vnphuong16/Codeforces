@@ -59,4 +59,10 @@ build
 # IDE
 .vscode
 .idea
+
+# Competitive programming tools
 .cph
+.autocp
+
+# MacOS
+.DS_Store
